@@ -9,14 +9,16 @@ Sleeping Times Log (whenever I remember, and i'm sorry to my parents)
 Because either:
 - I felt like it (wanted to watch yt or something)
 - I'm up doing homework (procrastination) :skull:
+  ![Image][src]
   
-| Date    | Time |
-| ------ | -------- |
-| 9/22   |  1:30 am  |
-| 9/23  | 12:30 am   |
-| 9/24  | 12:00 am  |
+| Date       |     Time   |
+| ------      | -------- |
+| Fri. 9/22   |  1:30 am  |
+| Sat. 9/23  | 12:30 am   |
+| Sun. 9/24  | 12:00 am  |
+| Mon. 9/25  | 11:45 pm  |
 
 ### Please Fix Your Sleep Schedule!
 Short answer: no
-> [I found this short video that I find interesting]
-> ([https://www.youtube.com/watch?v=dQw4w9WgXcQ])
+> I found this short video that I find interesting
+> ((Youtube)[https://www.youtube.com/watch?v=dQw4w9WgXcQ)])
