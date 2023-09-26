@@ -2,19 +2,21 @@
   <link href="/retrostyle.css" rel="stylesheet">
 </html>
 
-# ActualWebsite
-If I can update this I will update this later when I decide what this website is about
+# Content
+Sleeping Times Log (whenever I remember, and i'm sorry to my parents)
 
-## How does this Header Look like?
-Is the syntax of this different than HTML :skull:
-- rip it is i'm so sad :(
-- AGHHGHDSHF
+## Why do you sleep so late???
+Because either:
+- I felt like it (wanted to watch yt or something)
+- I'm up doing homework (procrastination) :skull:
   
-| xvalue | yvalue |
+| Date    | Time |
 | ------ | -------- |
-| x-=1  | y=1       |
-| x=2   | y=2        |
+| 9/22   |  1:30 am  |
+| 9/23  | 12:30 am   |
+| 9/24  | 12:00 am  |
 
-### How does this header look like? Is it better?
-preeetty fancy ngl..
-> [This is a link to wikipedia, which i'm testing to see how to link stuff](https://www.wikipedia.org// "Wikipedia")
+### Please Fix Your Sleep Schedule!
+Short answer: no
+> [I found this short video that I find interesting]
+> ([https://www.youtube.com/watch?v=dQw4w9WgXcQ])
