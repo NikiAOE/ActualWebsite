@@ -9,7 +9,7 @@ Sleeping Times Log (whenever I remember, and i'm sorry to my parents)
 Because either:
 - I felt like it (wanted to watch yt or something)
 - I'm up doing homework (procrastination) :skull:
-  ![Image][src]
+  ![Generic Moon Image][[src=https://www.flaticon.com/free-icon/night_1809597]
   
 | Date       |     Time   |
 | ------      | -------- |
