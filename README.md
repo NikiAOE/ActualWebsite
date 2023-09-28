@@ -3,6 +3,7 @@
 </html>
 
 # What is this about?
+Sleeping times in general + an interesting google search I did
 Sleeping Times Log (whenever I remember, and i'm sorry to my parents)
 <html>
   <img src="https://cdn-icons-png.flaticon.com/512/10862/10862163.png" alt="Generic Moon Image">
@@ -25,11 +26,58 @@ Because either:
 | Sat. 9/23  | 12:30 am   |
 | Sun. 9/24  | 12:00 am  |
 | Mon. 9/25  | 11:45 pm  |
-| Tues. 9/26 | 11:30 pm  |
+| Tues. 9/26| 11:30 pm  |
+| Wed. 9/27 |  11:30 pm |
 
-### Please Fix Your Sleep Schedule!
-Short answer: no
-> I found this short video that I find interesting
+# Then, why do people sleep so late even if they have the power to change it?
+**The term for it- Revenge Bedtime Procrastination**
+- quite literally, yes, it is the procrastination of going to bed, sacrificing sleeping time, without valid reason
+
+People often procrastinate sleep because of stress during the day, or to catch up on hobbies/things that they were previously unable to do.
+
+Not so surprisingly, **students** are one of the groups that are *more likely* to procrastinate their bedtime.
+Sleep Procrasination may be associated with poor self-control/regulation to regulate yourself to go to sleep earlier.
+Sleep Procrastination often shows that there are other aspects someone procrastinates in their life, which may include, but not limited to:
+- chores
+- homework
+
+<html>
+  <img src="https://www.frontiersin.org/files/Articles/89333/fpsyg-05-00611-HTML/image_m/fpsyg-05-00611-t001.jpg" alt= "Bedtime Procrastination Reason Statistics">
+</html>
+
+*the following chart describes how people describe their sleep*
+
+It may not be big at first, but it definitely adds up (during summer especially when I procrasinated sleep, the latest I went to was around 3:30 AM, starting from 12 AM from the last day of school)
+
+## Other Factors to consider if this doesn't resonate with you:
+People naturally have different circadian rhythms of sleep, some may require more sleep, some may require to sleep at different times to feel rested, etc.
+Everyone's circadian rhythm is **unique**, what may work for you may not work for others.
+
+## *Can be called Bedtime Procrastination if it fufills 3 things:*
+1. delaying of sleep
+2. no reason to stay up
+3. knowing that staying up will hurt you
+
+> **In my case, I do show signs of all 3:**
+> ----
+> 1. I purposely delayed my sleep from 11:30 PM to 12:00 AM
+> 2. I didn't have a reason to stay up (YouTube Shorts is not valid)
+> 3. If I didn't sleep, I know I would struggle to stay awake the following day
+> ----
+> During the day, I do feel like I'm stressed out from work and want to relax using a few extra minutes, because... how bad can it be?...
+
+### Please fix your sleep schedule!
+**Short Answer:** No.
+
+**Long Answer:** Upon reading all of this, I understand the benefit of not procrastinating sleep, and I will continue to work on it. However, it may take a while to adjust as my thinking and behavior can't be adjusted significantly right away. It requires a lot more consistent work for it to change.
+
+Sources Used(check them out for more info, they're pretty interesting actually):
+<html>
+  <a href="https://www.sleepfoundation.org/sleep-hygiene/revenge-bedtime-procrastination">Sleepfoundation.org</a>
+  <a href="https://www.verywellmind.com/what-is-revenge-bedtime-procrastination-5189591">verywellmind.com/a>
+</html>
+
+> And lastly, I found this short video that I find interesting
 <html>
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Youtube link!</a>
 </html>
