@@ -37,7 +37,8 @@ People often procrastinate sleep because of stress during the day, or to catch u
 
 Not so surprisingly, **students** are one of the groups that are *more likely* to procrastinate their bedtime.
 Sleep Procrasination may be associated with poor self-control/regulation to regulate yourself to go to sleep earlier.
-Sleep Procrastination often shows that there are other aspects someone procrastinates in their life, which may include, but not limited to:
+
+Bedtime Procrastination may show/indicate the presence of procrastination in other aspects of someone's life, which may include, but not limited to:
 - chores
 - homework
 
