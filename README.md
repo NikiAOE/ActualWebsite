@@ -12,7 +12,7 @@ I was thinking that recording my sleeping times would be funny for both peers(an
 ## Why do you sleep so late??? - My Personal Experience
 Because either:
 - I felt like it (wanted to watch yt or something)
-- I'm up doing "homework" supposedly (i am don't doubt me pls) :skull:
+- I'm up doing "homework"(I am, don't doubt me please.)
 
 > Because of how tiring school is, I go home and decide not to do work. The procrastination panic monster does not jump at me until late in the afternoon, meaning until then, I get no work done. By the time I start my work, I end up doing it at a really late time, causing the follow times below that follow the couple days I was working on this website and recorded my sleeping times. On average, I sleep around midnight, by choice, usually. Even if I get my work done early, I somehow manage to go on this cancer called "Youtube Shorts" and spend an extra 20 minutes on there, thus ruining any progress I've made in trying to adjust back.
 <html>
