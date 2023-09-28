@@ -2,14 +2,14 @@
   <link href="/retrostyle.css" rel="stylesheet">
 </html>
 
-# What is this about?
-Sleeping times in general + an interesting google search I did
-Sleeping Times Log (whenever I remember, and i'm sorry to my parents)
+# Context
+I was thinking that recording my sleeping times would be funny for both peers(and the fact I'm ok with them seeing this), my parents, and myself. However, to fufill the requirement of needing to know enough about the topic, I asked myself something interesting: **Why do people willingly sleep late despite being able to sleep earlier?**
+
 <html>
   <img src="https://cdn-icons-png.flaticon.com/512/10862/10862163.png" alt="Generic Moon Image">
 </html>
 
-## Why do you sleep so late???
+## Why do you sleep so late??? - My Personal Experience
 Because either:
 - I felt like it (wanted to watch yt or something)
 - I'm up doing "homework" supposedly (i am don't doubt me pls) :skull:
