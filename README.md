@@ -73,11 +73,13 @@ Everyone's circadian rhythm is **unique**, what may work for you may not work fo
 
 Sources Used(check them out for more info, they're pretty interesting actually):
 <html>
-  <a href="https://www.sleepfoundation.org/sleep-hygiene/revenge-bedtime-procrastination">Sleepfoundation.org</a>
-  <a href="https://www.verywellmind.com/what-is-revenge-bedtime-procrastination-5189591">verywellmind.com/a>
+  <a href="https://www.sleepfoundation.org/sleep-hygiene/revenge-bedtime-procrastination">Sleepfoundation.org</a> 
+  <br>
+  <a href="https://www.verywellmind.com/what-is-revenge-bedtime-procrastination-5189591">verywellmind.com</a>
 </html>
 
-> And lastly, I found this short video that I find interesting
+
+### And lastly, a short video I found interesting!
 <html>
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Youtube link!</a>
 </html>
